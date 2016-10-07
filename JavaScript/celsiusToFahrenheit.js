@@ -6,5 +6,5 @@ function convertToF(celsius) {
   return fahrenheit;
 }
 
-// Change the inputs below to test your code
+// Change the inputs below to test code
 convertToF(30);
